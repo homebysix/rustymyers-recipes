@@ -10,12 +10,6 @@
     <dict>
         <key>NAME</key>
         <string>Pidgin</string>
-        <key>SEARCH_PATTERN</key>
-        <string>(/.*pidgin.*-offline.exe)</string>
-        <key>SEARCH_PATTERN2</key>
-        <string>pidgin-([0-9]{1,}.[0-9]{1,}.[0-9]{1,})-offline.exe</string>
-        <key>SEARCH_PATTERN3</key>
-        <string>src="(.*pidgin-[0-9]{1,}.[0-9]{1,}.[0-9]{1,}-offline.exe)</string>
         <key>USER_AGENT</key>
         <string>Mozilla/5.0 (Windows NT 6.3; Win64, x64; Trident/7.0; rv:11.0) like Gecko</string>
     </dict>
